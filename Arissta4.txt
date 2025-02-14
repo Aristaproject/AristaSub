@@ -8,7 +8,7 @@ vless://b66a1cb8-3c03-4678-a45b-bfd045604dad@172.66.47.45:2083/?type=ws&encrypti
 vless://3602c1ed-5506-4d78-a0be-f39a7594e888@49.12.222.117:57818/?type=ws&encryption=none&path=%2F&security=tls#ARISTA-BOT%F0%9F%92%A6_%F0%9F%87%A9%F0%9F%87%AA_DE_8
 vless://b2b935ee-1430-479b-8705-9273b38af8c7@103.77.215.119:45070/?type=grpc&encryption=none&serviceName=%40UCIRANIR%40U%40UCIRANIRCIRANIR%40UCIRANIR&security=tls#ARISTA-BOT%F0%9F%92%A6_%F0%9F%87%AE%F0%9F%87%B3_IN_9
 vless://c6a8fa8a-9fa0-4866-a786-5d11199d0c1d@146.75.94.133:443/?type=tcp&encryption=none#ARISTA-BOT%F0%9F%92%A6_%F0%9F%87%B8%F0%9F%87%AA_SE_10
-vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@195.85.59.161:2082/?type=ws&encryption=none&host=0210.uous1wog.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=0210.uous1wog.workers.dev#ARISTA-BOT%F0%9F%92%A6_%F0%9F%87%A9%F0%9F%87%B0_DK_11
+vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@195.85.59.161:2082/?type=ws&encryption=none&host=0210.uious1wog.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=0210.uious1wog.workers.dev#ARISTA-BOT%F0%9F%92%A6_%F0%9F%87%A9%F0%9F%87%B0_DK_11
 vless://fa98e2c7-7c85-4ea5-9dac-2171b0707279@151.101.194.133:80/?type=ws&encryption=none&host=Yob.nl.&security=tls&sni=Yob.nl.#ARISTA-BOT%F0%9F%92%A6_%F0%9F%87%BA%F0%9F%87%B8_US_12
 vless://a791597c-ef25-4226-f6f6-bf1d78d390f7@81.28.12.12:80/?type=ws&encryption=none&host=bitcoinfast.com&path=%2Fbitcoinfast.com.snapp.ir.speedtest.net%3Fed%3D1048&security=tls&sni=bitcoinfast.com#ARISTA-BOT%F0%9F%92%A6_%F0%9F%87%B7%F0%9F%87%BA_RU_13
 vless://c4fe23e2-0626-4330-b8d9-4f798379941e@151.101.2.133:443/?type=ws&encryption=none&host=live.wkrq.com&security=tls&sni=live.wkrq.com#ARISTA-BOT%F0%9F%92%A6_%F0%9F%87%BA%F0%9F%87%B8_US_14
